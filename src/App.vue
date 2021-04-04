@@ -35,7 +35,7 @@ export default class App extends Vue {
   }
 
   // This function is automatically called when
-  // the App component is added to the DOM tree
+  // the App component is 
   mounted(): void {
     // Just for debugging, you may delete the following two
     // lines after it is confirmed that this.$appDB is
